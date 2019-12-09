@@ -2,6 +2,10 @@
 
 This project allows you to train a LSTM neural network to generate classical music files (in ABC notation) that make use of up to 2 piano instruments.
 
+Data Source: http://abc.sourceforge.net/NMD/
+* Jigs (340 tunes)
+* Hornpipes (65 tunes)
+
 To train model or generate music, use the .ipynb files below:
 * `LSTM_Training_Model.ipynb` for training model based on input data
 * `Music_Composer.ipynb` for generating music in ABC notation
