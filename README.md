@@ -12,5 +12,5 @@ To train model or generate music, use the .ipynb files below:
 
 Here's the directory structure for critical files
 * `Output/` - generated music files (converted from ABC to MIDI format)
-* `Data/Model_Training` - training data for each epoch (loss and accuracy)
-* `Data/Model_Weights` - saved weights for every 10 training epochs
+* `Data/Model_Training/` - training data for each epoch (loss and accuracy)
+* `Data/Model_Weights/` - saved weights for every 10 training epochs
